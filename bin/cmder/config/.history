@@ -1,0 +1,24 @@
+cd
+ls- al
+pwd
+cp
+clear
+cd ..
+cd RapiD\
+npm
+nvm
+npm install
+D:
+cd auto-osm\RapiD\
+dir /B %*
+ir
+dir
+dir /B
+exit
+touch
+touch a
+ls
+rm a
+cd ../..
+cd windows-aliases\
+git add .
