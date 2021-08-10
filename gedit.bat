@@ -1,3 +1,2 @@
 @echo off
-echo.
-notepad++ %*
+start "" "C:\Program Files\Notepad++\notepad++.exe" %*
